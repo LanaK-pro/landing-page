@@ -1,0 +1,13 @@
+#visuals {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.direction {
+  width: 30px;
+}
+
+img {
+  width: 10%;
+}

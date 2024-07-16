@@ -1,0 +1,16 @@
+nav {
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-top: 0px;
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 80px;
+  gap: 10px;
+}
+img {
+  width: 30px;
+}
+#websiteLogo {
+  margin-right: auto;
+}

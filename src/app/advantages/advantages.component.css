@@ -1,0 +1,33 @@
+section {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-between;
+}
+
+#articles {
+  margin-top: 80px;
+}
+
+img {
+  width: 30px;
+}
+
+h2 {
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.manga-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.card {
+  flex: 0 1 18rem; /* This allows the cards to shrink if necessary */
+  margin-bottom: 1rem;
+}
